@@ -1,0 +1,41 @@
+.pokemon-card{
+    
+        background-color: #f0f0f0; /* Color de fons */
+        color: #333; /* Color del text */
+        margin: auto; /* Marge exterior */
+        padding: 20px; /* Marge interior */
+        border: 15px; /* Vora */
+        border-radius: 15px;
+        box-shadow: 0 7px 10px rgba(0, 0, 0, 0.9);
+        width: 300px;
+        margin-top: 50px;  
+}
+
+.pokemon-image {
+    max-width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.pokemon-info {
+    background-color: #98fb98;
+    border-radius: 13px;
+    padding: 10px;
+}
+
+.pokemon-name{
+    font-family: 'Arial Black';
+    color: #333;
+    font-size: 20px;
+}
+
+.pokemon-type{
+    color: #4caf50;
+    margin-bottom: 5px;
+}
+
+.pokemon-description{
+    font-size: 14px;
+    color: #888;
+    
+}
