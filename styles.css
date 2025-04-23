@@ -18,14 +18,14 @@
 }
 
 .pokemon-info {
-    background-color: #98fb98;
+    background-color: #79f379;
     border-radius: 13px;
     padding: 10px;
 }
 
 .pokemon-name{
     font-family: 'Arial Black';
-    color: #333;
+    color: rgb(44, 216, 110);
     font-size: 20px;
 }
 
@@ -38,4 +38,7 @@
     font-size: 14px;
     color: #888;
     
+}
+.pokemon-type fire{
+    color:#888
 }
